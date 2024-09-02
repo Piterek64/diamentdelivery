@@ -59,6 +59,16 @@
 
         </activity>
 
+        <service
+            android:name=".MyForegroundService"
+            android:exported="false"
+            android:foregroundServiceType="specialUse">
+            <intent-filter>
+                <action android:name="com.example.MyApp.START_FOREGROUND_SERVICE" />
+            </intent-filter>
+        </service>
+
+
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
