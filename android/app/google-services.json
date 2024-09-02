@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "512570552946",
+    "project_id": "diamentdelivery-s9l4hs",
+    "storage_bucket": "diamentdelivery-s9l4hs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512570552946:android:48474cc8aadfe46b1448eb",
+        "android_client_info": {
+          "package_name": "com.diamentdelivery.diamentdelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDML9RKYyCwTXbkM1awQHXcCz_uDBoJXPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512570552946:android:b4037a710ab3cb061448eb",
+        "android_client_info": {
+          "package_name": "com.mycompany.diamentdelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDML9RKYyCwTXbkM1awQHXcCz_uDBoJXPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
